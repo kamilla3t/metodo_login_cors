@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 namespace Exo.WebApi.Models
 {
     public class Projeto
+
     {
         public int Id { get; set; }
         public string NomeDoProjeto { get; set; }
