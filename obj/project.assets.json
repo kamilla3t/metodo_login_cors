@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ana\\Downloads\\Exo.WebApi_5\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\ana\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\ana\\Downloads\\Exo.WebApi_5\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\ana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana\\Downloads\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\ana\\Downloads\\Exo.WebApi_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana\\AppData\\Roaming\\NuGet\\NuGet.Config"

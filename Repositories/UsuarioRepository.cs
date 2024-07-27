@@ -13,8 +13,7 @@ _context = context;
 }
 public Usuario Login(string email, string senha)
 {
-return _context.Usuarios.FirstOrDefault(u => u.Email == 
-email && u.Senha == senha);
+return _context.Usuarios.FirstOrDefault(u => u.Email == email && u.Senha == senha);
 }
 public List<Usuario> Listar()
 {
